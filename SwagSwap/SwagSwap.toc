@@ -1,0 +1,9 @@
+## Interface: 50400
+## Title: SwagSwap by Ðeox
+## Notes: Switch Weapons inside / outside Combat / Questions: chozoboss@gmail.com
+## Author:  Ðeox @ Teldrassil EU / chozoboss@gmail.com / based on: EquipmentBuddy 5.06 by shackleford
+## SavedVariablesPerCharacter: ssenable, ssname, ssname2
+## Version: 2.8
+
+SwagSwap.lua
+Options.lua
